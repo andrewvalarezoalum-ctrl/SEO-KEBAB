@@ -382,3 +382,9 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+/*** Page header amb capa clara (llegibilitat sobre la foto) ***/
+.page-header.page-header-overlay {
+    background: linear-gradient(rgba(255, 255, 255, .84), rgba(255, 255, 255, .84)), url(../img/carousel-1.jpg) top right no-repeat;
+    background-size: cover;
+}
