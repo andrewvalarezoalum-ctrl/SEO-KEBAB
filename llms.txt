@@ -1,0 +1,26 @@
+# Kebab Rubí
+
+> Web informativa de Kebab Rubí, un restaurante de döner kebab
+> situado en Rubí, Barcelona.
+
+## Información principal
+
+- Nombre: Kebab Rubí
+- Ubicación: Carrer Magallanes 12, 08191 Rubí
+- Tipo de comida: Döner kebab, durum y comida halal.
+- Horario publicado: Cada día de 12:00 a 24:00.
+- Teléfono: +34 935 88 12 34
+
+## Páginas principales
+
+- [Inicio](https://andrewvalarezoalum-ctrl.github.io/SEO-KEBAB/)
+- [Kebab halal](https://andrewvalarezoalum-ctrl.github.io/SEO-KEBAB/kebab-halal-rubi.html)
+- [Quiénes somos](https://andrewvalarezoalum-ctrl.github.io/SEO-KEBAB/about.html)
+- [Productos](https://andrewvalarezoalum-ctrl.github.io/SEO-KEBAB/product.html)
+- [Blog](https://andrewvalarezoalum-ctrl.github.io/SEO-KEBAB/blog.html)
+- [Contacto](https://andrewvalarezoalum-ctrl.github.io/SEO-KEBAB/contact.html)
+
+## Contenido
+
+La web contiene información sobre el restaurante, sus productos,
+la preparación de sus kebabs y sus opciones halal.
